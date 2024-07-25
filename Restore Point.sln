@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restore Point", "Restore Point.csproj", "{E4AB0C7A-5916-4D23-8D2C-E6ABAB0611E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4AB0C7A-5916-4D23-8D2C-E6ABAB0611E6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AB0C7A-5916-4D23-8D2C-E6ABAB0611E6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E4AB0C7A-5916-4D23-8D2C-E6ABAB0611E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AB0C7A-5916-4D23-8D2C-E6ABAB0611E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2301D83-6F3F-494B-88F1-DCE4044AB007}
+	EndGlobalSection
+EndGlobal
