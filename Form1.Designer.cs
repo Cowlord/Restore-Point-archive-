@@ -41,6 +41,8 @@
             this.RestorePoint_Text.Name = "RestorePoint_Text";
             this.RestorePoint_Text.Size = new System.Drawing.Size(232, 20);
             this.RestorePoint_Text.TabIndex = 0;
+            this.RestorePoint_Text.Text = "Enter Restore Point Name...";
+            this.RestorePoint_Text.TextChanged += new System.EventHandler(this.RestorePoint_Text_TextChanged);
             // 
             // Save_Button
             // 
